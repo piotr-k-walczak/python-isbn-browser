@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+GUI/__pychache__/
+.idea
+.DS_Store
+report.xlsx
+GUI/__pycache__/BookWidget.cpython-39.pyc
+main.spec
